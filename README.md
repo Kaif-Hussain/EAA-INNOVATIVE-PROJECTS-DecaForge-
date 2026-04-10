@@ -118,7 +118,7 @@ Example: `B180\n` (70% brightness)
 ➤ Maps it to PWM range: **0 → 255**
 
 ### 🌀 **Fan Speed Rule**  
-- **≤ 30°C** → Fan **OFF**  
+- **≤ 20°C** → Fan **OFF**  
 - **≥ 40°C** → Fan **FULL (255)**
 
 ### 💨 **Air Quality Rule**  
